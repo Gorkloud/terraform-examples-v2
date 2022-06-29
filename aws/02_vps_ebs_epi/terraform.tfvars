@@ -1,0 +1,6 @@
+ssh_key_path="/home/jenkins/.ssh/id_rsa.pub"
+project_name="terraform"
+region_name="ap-northeast-1"
+availability_zone="apne1-az4"
+vpc_id="vpc-01c497969bdac3377"
+instance_type="t2.micro"
